@@ -24,17 +24,17 @@ Full-stack AI pipeline that monitors company mentions in cleantech news. Supabas
 **[AI-Powered Hiring Platform](https://github.com/zainabwahab-eth/AI-Screener-App)**  
 Backend system that extracts text from uploaded resumes and scores candidates automatically via AI. Built for recruiter workflows with authentication, file uploads, and structured error handling.
 
-**[Multiplayer Game Platform](https://github.com/zainabwahab-eth/)**  
+**[Multiplayer Game Platform](https://github.com/zainabwahab-eth/Guessing-game-project)**  
 Real-time multiplayer platform using Socket.io where players join via room codes and compete in timed guessing rounds. Modular backend architecture deployed on Render.
 
-**[LinkVault](https://github.com/zainabwahab-eth/)**  
+**[LinkVault](https://github.com/zainabwahab-eth/Learners-hub)**  
 Developer bookmarking platform built for the Appwrite Hackathon. Organize, share, and bookmark learning resources in structured folders. Currently rebuilding the backend with NestJS.
 
 ---
 
 ## What I'm currently learning
 
-- **Go** — building production-grade projects through the [Learn2Earn](https://learn2earn.dev) fellowship. Currently working with goroutines, channels, and worker pools.
+- **Go** — building production-grade projects through the [Learn2Earn](https://learn2earn.ng/) fellowship. Currently working with goroutines, channels, and worker pools.
 - **Database Engineering** — going deep on internals: ACID, concurrency, isolation levels, and how databases actually work under the hood.
 
 ---
